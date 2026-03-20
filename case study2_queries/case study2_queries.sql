@@ -34,4 +34,4 @@ ORDER BY rental_count ASC;
  ON i.inventory_id = r.inventory_id
  GROUP BY f.title
  ORDER BY rental_count ASC
- LIMIT 20;
+ LIMIT 10;
