@@ -1,10 +1,11 @@
 # DVD Rental SQL Project
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-007396?style=flat&logo=sql&logoColor=white)
 
 ## Project Overview
 
-This project is a comprehensive SQL-based analysis and management system built on the **DVD Rental Database** in **PostgreSQL**. It covers both **data definition/manipulation (DDL/DML)** and **data querying (DQL)** scenarios. The main goal is to demonstrate SQL proficiency in:
+This project is a comprehensive SQL-based analysis and management system using the **DVD Rental Database** on **PostgreSQL**. It covers both **data definition/manipulation (DDL/DML)** and **data querying (DQL)** scenarios. The main goal is to demonstrate SQL proficiency in:
 
 - Creating and populating temporary and permanent tables
 - Handling complex queries using joins, aggregates, and subqueries
@@ -16,7 +17,6 @@ The project is structured into **Section 1** (Scenario-Based DDL/DML) and **Sect
 
 ## Folder Structure
 
-```
 dvd_rental_sql_project/
 │
 ├── README.md
