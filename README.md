@@ -16,13 +16,13 @@ The project is structured into **Section 1** (Scenario-Based DDL/DML) and **Sect
 ---
 
 ## Folder Structure
-
+'''
 dvd_rental_sql_project/
 │
 ├── README.md
 │
 ├── queries.sql
-
+'''
 ---
 
 ## Section 1: DDL and DML (Scenario-Based)
